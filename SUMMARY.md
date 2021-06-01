@@ -22,4 +22,5 @@
 
 * [Hlavná stránka](http://batcore.eu/)
 * [Discord](https://discord.gg/3BxxXuGuMC)
+* [Status Page](https://stats.batcore.eu/)
 
