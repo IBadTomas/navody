@@ -17,6 +17,7 @@
 ## Wiki
 
 * [Changelog](wiki/changelog.md)
+* [Credits](wiki/credits.md)
 
 ---
 
