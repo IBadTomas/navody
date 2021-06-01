@@ -18,3 +18,5 @@
 
 ## TS3
 
+* [Vlastní IP - TS3](ts3/untitled.md)
+
