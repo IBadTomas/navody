@@ -8,7 +8,7 @@
 
 ## Časté chyby
 
-* [Untitled](caste-chyby/untitled.md)
+* [Minecraft chyba: Failed to Verify Username](caste-chyby/untitled.md)
 
 ## Tipy
 
