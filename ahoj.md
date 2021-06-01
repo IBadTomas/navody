@@ -1,9 +1,8 @@
-# AHoj
+# Ahoj
 
-wadawdwadawdwadwadwadawdd  DOBREJ DEN
+wadawdwadawdwadwadwadawdd DOBREJ DEN
 
-*AHOJ* JAK SE MÁTE `DWADAWDWAD
-DWADWADAWDWADA`
+_AHOJ_ JAK SE MÁTE `DWADAWDWAD DWADWADAWDWADA`
 
 wad
 

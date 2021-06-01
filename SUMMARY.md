@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [AHoj](ahoj.md)
+* [Ahoj](ahoj.md)
 * [Untitledddddddaaa](untitledddddddaaa.md)
 
