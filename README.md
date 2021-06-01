@@ -12,4 +12,5 @@ Návrhy na témy:
 * [ ] Reinštalácia serveru.
 * [ ] Podmienky spolupráce a ich typy.
 * [ ] Povolenie pripojenia warez hráčov.
+* [ ] Ako pridať návod pomocou GitHub
 
