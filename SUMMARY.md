@@ -16,3 +16,7 @@
 
 * [Untitled](tipy/untitled.md)
 
+## Doporučené pluginy
+
+* [Untitled](doporucene-pluginy/untitled.md)
+
