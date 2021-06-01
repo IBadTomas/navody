@@ -18,3 +18,7 @@
 
 * [Vlastní IP - TS3](ts3/untitled.md)
 
+---
+
+* [Hlavná stránka](http://batcore.eu/)
+
