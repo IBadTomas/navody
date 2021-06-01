@@ -17,5 +17,5 @@
 
 ## Doporučené pluginy
 
-* [Untitled](doporucene-pluginy/untitled.md)
+* [Optimalizační pluginy](doporucene-pluginy/untitled.md)
 
