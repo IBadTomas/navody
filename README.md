@@ -11,5 +11,5 @@ Návrhy na témy:
 * [ ] Java verzie a ich kompatibilita s MC.
 * [ ] Reinštalácia serveru.
 * [ ] Podmienky spolupráce a ich typy.
-* [ ] Povolenie pripojenia online hráčov.
+* [ ] Povolenie pripojenia warez hráčov.
 
