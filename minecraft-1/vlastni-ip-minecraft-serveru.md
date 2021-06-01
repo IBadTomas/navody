@@ -25,9 +25,13 @@ Do "**Data:**" **vložte IP adresu**, kterou jste v předešlém kroku zkopírov
 
 Do "Data:" napište "0 5 port\_vaseho\_serveru vase\_konecna\_domena" \(V mém případě "0 5 25800 play.lukariosmen.eu"\) . Poté klikněte na uložit záznam.
 
+V případě kdy využíváte jiného registrátora domén, který nemá možnost "Data" tak napište: 
+
+Priority: 0 \| váha \(Weight\): 5 \| Port: Port\_serveru \| Target: Finální doména.
+
 ![](../.gitbook/assets/image%20%285%29.png)
 
 4. Poté stačí zmáčknout nahoře tlačítko "Aplikovat změny" a máte hotovo! Nyní se můžete na váš server připojit pomocí vaši domény. \(V mém případě play.lukariosmen.eu\)
 
-**POZOR! Po nastavení DNS záznamů, může chvíli trvat než se budete moct připojit přes doménu na váš server. \(Až 1 hodinu\)**
+### **POZOR! Po nastavení DNS záznamů, může chvíli trvat než se budete moct připojit přes doménu na váš server. \(Až 1 hodinu\)**
 
