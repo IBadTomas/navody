@@ -13,8 +13,6 @@
 
 ## Tipy
 
-* [Untitled](tipy/untitled.md)
-
 ## Doporučené pluginy
 
 * [Optimalizační pluginy](doporucene-pluginy/untitled.md)
