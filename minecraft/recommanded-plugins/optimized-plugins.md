@@ -10,5 +10,5 @@ Vesničané od verze 1.14 dostali nové mechaniky. Tyto mechaniky jsou, ale velm
 
 ## LimitPillagers
 
-**Hromada pilligerů** taktéž dokáže způsobit velké zatížení serveru. Tento problém sa dá vyřešit pomocí pluginu **\*\*\[**LimitPillagers\*\*\]\([https://www.spigotmc.org/resources/limitpillagers-fix-outpost-spawns-and-more.69733/](https://www.spigotmc.org/resources/limitpillagers-fix-outpost-spawns-and-more.69733/)\).
+**Hromada pilligerů** taktéž dokáže způsobit velké zatížení serveru. Tento problém sa dá vyřešit pomocí pluginu [**LimitPillagers**](https://www.spigotmc.org/resources/limitpillagers-fix-outpost-spawns-and-more.69733/).
 
