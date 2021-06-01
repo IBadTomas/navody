@@ -23,11 +23,10 @@ Do "**Data:**" **vložte IP adresu**, kterou jste v předešlém kroku zkopírov
 
 3. U registrátora domény **vytvořte** další **DNS záznam** typu **SRV**. Do názvu napište "\_minecraft.\_tcp.vase\_sub\_domena" _\(V mém případě "\_minecraft.\_tcp.play"\)._
 
-Do "Data:" napište "0 5 port\_vaseho\_serveru vase\_konecna\_domena" \(V mém případě "0 5 25800 play.lukariosmen.eu"\) . Poté klikněte na uložit záznam.
+Do "Data:" napište "0 5 port\_vaseho\_serveru vase\_konecna\_domena" \(V mém případě "0 5 25800 play.lukariosmen.eu"\) . Poté **klikněte** na **uložit záznam**.
 
-V případě kdy využíváte jiného registrátora domén, který nemá možnost "Data" tak napište: 
-
-Priority: 0 \| váha \(Weight\): 5 \| Port: Port\_serveru \| Target: Finální doména.
+\(V případě kdy využíváte jiného registrátora domén, který nemá možnost "Data" tak napište:   
+Priority: 0 \| váha \(Weight\): 5 \| Port: Port\_serveru \| Target: Finální doména.\)
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
