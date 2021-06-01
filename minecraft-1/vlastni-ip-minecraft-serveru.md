@@ -6,13 +6,12 @@ V tomto návodě vám ukážu jak si nastavit DNS záznamy u domény tak aby jst
 
 ## **Požadavky:**
 
-1. Zakoupený minecraft server
-
+1. Zakoupený minecraft server  
 2. Zakoupenou doménu u jakéhokoliv registrátora domén
 
-Postup:
+## Postup:
 
-1. Zkopírujte IP adresu \(dsX.batcore.eu - místo X zadáte váš ds server.\) z herní administrace - BEZ PORTU! \(V tomto případě ds2.batcore.eu\)
+1. Zkopírujte IP adresu _\(dsX.batcore.eu - místo X zadáte váš ds server.\)_ z herní administrace - BEZ PORTU! \(V tomto případě ds2.batcore.eu\)
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
