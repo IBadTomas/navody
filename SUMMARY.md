@@ -12,3 +12,7 @@
 
 * [Untitled](caste-chyby/untitled.md)
 
+## Tipy
+
+* [Untitled](tipy/untitled.md)
+
