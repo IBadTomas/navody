@@ -2,21 +2,17 @@
 
 * [Úvod](README.md)
 
-## Minecraft <a id="minecraft-1"></a>
+## Minecraft
 
-* [Vlastní IP - Minecraft serveru](minecraft-1/vlastni-ip-minecraft-serveru.md)
-
-## Časté chyby
-
-* [Minecraft chyba: Failed to Verify Username](caste-chyby/untitled.md)
-
-## Doporučené pluginy
-
-* [Optimalizační pluginy](doporucene-pluginy/untitled.md)
+* [Vlastní IP - Minecraft serveru](minecraft/custom-ip.md)
+* [Optimalizační pluginy](minecraft/recommanded-plugins/README.md)
+  * [Optimalizační pluginy](minecraft/recommanded-plugins/optimized-plugins.md)
+* [Časté chyby](minecraft/common-mistakes/README.md)
+  * [Failed to Verify Username](minecraft/common-mistakes/failed-verify.md)
 
 ## TS3
 
-* [Vlastní IP - TS3](ts3/untitled.md)
+* [Vlastní IP - TS3](ts3/custom-ip.md)
 
 ## Wiki
 
