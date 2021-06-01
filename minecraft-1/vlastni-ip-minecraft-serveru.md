@@ -11,13 +11,13 @@ V tomto návodě vám ukážu jak si nastavit DNS záznamy u domény tak aby jst
 
 ## Postup:
 
-1. Zkopírujte IP adresu _\(dsX.batcore.eu - místo X zadáte váš ds server.\)_ z herní administrace - BEZ PORTU! \(V tomto případě ds2.batcore.eu\)
+1. Zkopírujte IP adresu _\(dsX.batcore.eu - místo X zadáte váš ds server.\)_ z herní administrace - **BEZ PORTU!** \(V tomto případě ds2.batcore.eu\)
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-2. U registrátora domény vytvořte nový DNS záznam typu CNAME. Do názvu napište jméno subdomény \(Já použiju např. "play"\). 
+2. U registrátora domény **vytvořte** nový **DNS záznam** typu **CNAME**. Do názvu napište jméno subdomény \(Já použiju např. "play"\). 
 
-Do "Data:" vložte IP adresu, kterou jste v předešlém kroku zkopírovali. Poté klikněte na uložit záznam.
+Do "**Data:**" **vložte IP adresu**, kterou jste v předešlém kroku zkopírovali. Poté **klikněte** na **uložit záznam**.
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
