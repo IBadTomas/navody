@@ -2,8 +2,6 @@
 
 * [Initial page](README.md)
 
-## Minecraft
-
 ## Minecraft <a id="minecraft-1"></a>
 
 * [Untitled](minecraft-1/untitled-1.md)
