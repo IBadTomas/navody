@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Úvod](README.md)
 
 ## Minecraft <a id="minecraft-1"></a>
 
