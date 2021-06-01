@@ -18,6 +18,10 @@
 
 * [Vlastní IP - TS3](ts3/untitled.md)
 
+## Wiki
+
+* [Changelog](wiki/changelog.md)
+
 ---
 
 * [Hlavná stránka](http://batcore.eu/)
