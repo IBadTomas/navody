@@ -21,4 +21,5 @@
 ---
 
 * [Hlavná stránka](http://batcore.eu/)
+* [Discord](https://discord.gg/3BxxXuGuMC)
 
