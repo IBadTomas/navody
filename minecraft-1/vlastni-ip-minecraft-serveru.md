@@ -1,0 +1,2 @@
+# Vlastní IP - Minecraft serveru
+

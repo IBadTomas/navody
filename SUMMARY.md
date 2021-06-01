@@ -5,6 +5,7 @@
 ## Minecraft <a id="minecraft-1"></a>
 
 * [Untitled](minecraft-1/untitled-2.md)
+* [Vlastní IP - Minecraft serveru](minecraft-1/vlastni-ip-minecraft-serveru.md)
 
 ## Časté chyby
 
