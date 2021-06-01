@@ -2,7 +2,7 @@
 
 ## **Přehled**
 
-V tomto návodě vám ukážu jak si nastavit DNS záznamy u domény tak aby jste měli vlastní doménu na vašem serveru. 178.211.151.211:25565 --&gt; play.mujserver.eu
+V tomto návodě vám ukážu jak si nastavit DNS záznamy u domény tak aby jste měli vlastní doménu na vašem serveru. `178.211.151.211:25565` --&gt; `play.mujserver.eu`
 
 ## **Požadavky:**
 
