@@ -18,5 +18,3 @@
 
 ## TS3
 
-* [Untitled](ts3/untitled.md)
-
