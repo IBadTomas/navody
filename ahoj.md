@@ -2,6 +2,9 @@
 
 wadawdwadawdwadwadwadawdd  DOBREJ DEN
 
+*AHOJ* JAK SE MÁTE `DWADAWDWAD
+DWADWADAWDWADA`
+
 wad
 
 wa
