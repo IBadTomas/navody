@@ -10,8 +10,6 @@
 
 * [Minecraft chyba: Failed to Verify Username](caste-chyby/untitled.md)
 
-## Tipy
-
 ## Doporučené pluginy
 
 * [Optimalizační pluginy](doporucene-pluginy/untitled.md)

@@ -14,14 +14,14 @@ V tomto krátkom návode vám ukážem ako tento problém vyriešiť.
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-4. Nájdite kolónku **Online Mode**  
-5. Označte **Zakázať** pri tejto kolónke.
+1. Nájdite kolónku **Online Mode**  
+2. Označte **Zakázať** pri tejto kolónke.
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-6. Kliknite **Uložiť** v pravom dolnom rohu stránky.  
-7. **Reštartujte server**.  
-8. **Skúste sa pripojiť**. \(Malo by to ísť...\)
+1. Kliknite **Uložiť** v pravom dolnom rohu stránky.  
+2. **Reštartujte server**.  
+3. **Skúste sa pripojiť**. \(Malo by to ísť...\)
 
 ## Oprava pre originálny minecraft
 
