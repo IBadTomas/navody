@@ -4,7 +4,7 @@ description: Zde najdete všechny změny na Wiki.‌
 
 # Changelog
 
-## 1.0.0 - 01.06.2021
+## 01.06.2021
 
 ### ‌Přidáno
 
