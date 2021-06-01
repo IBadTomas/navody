@@ -8,3 +8,7 @@
 * [Untitled](minecraft-1/untitled.md)
 * [Untitled](minecraft-1/untitled-2.md)
 
+## Časté chyby
+
+* [Untitled](caste-chyby/untitled.md)
+
