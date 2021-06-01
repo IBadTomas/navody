@@ -6,8 +6,7 @@ V tomto návodě vám ukážu jak si nastavit DNS záznamy u domény tak aby jst
 
 ## Požadavky:
 
-1. Vlastnit ts3 server
-
+1. Vlastnit ts3 server  
 2. Zakoupenou doménu u jakéhokoliv registrátora domén
 
 ## Postup:
