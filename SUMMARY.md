@@ -20,12 +20,6 @@
 * [Changelog](wiki/changelog.md)
 * [Credits](wiki/credits.md)
 
----
-
-* [Hlavná stránka](http://batcore.eu/)
-* [Discord](https://discord.gg/3BxxXuGuMC)
-* [Status Page](https://stats.batcore.eu/)
-
 ## Všeobecné
 
 * [Podmienky Spolupráce](vseobecne/podminky-spoluprace/README.md)
@@ -33,5 +27,8 @@
 
 ---
 
+* [Hlavná stránka](http://batcore.eu/)
+* [Discord](https://discord.gg/3BxxXuGuMC)
+* [Status Page](https://stats.batcore.eu/)
 * [Recenzie - TrustPilot](https://www.trustpilot.com/review/batcore.eu)
 
