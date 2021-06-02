@@ -41,23 +41,23 @@ Tento návod vás prevedie procesom, ako **nahrať TeamSpeak3 zálohu** pomocou 
 **Username** - `serveradmin`  
 **Password** - Heslo, ktoré ste nastavili v **kroku 4.** 
 
-![](../.gitbook/assets/ts3%20%283%29.png)
+![](../.gitbook/assets/ts3.png)
 
 10. Po úspešnom pripojení **kliknite** na záložku **Servers**.
 
-![](../.gitbook/assets/ts4%20%283%29.png)
+![](../.gitbook/assets/ts4.png)
 
 11. **Označte** server a **kliknite Select**.
 
-![](../.gitbook/assets/ts5%20%281%29.png)
+![](../.gitbook/assets/ts5.png)
 
 12. **Kliknite** na záložku **Miscellaneous**.
 
-![](../.gitbook/assets/ts6%20%282%29.png)
+![](../.gitbook/assets/ts6.png)
 
 13. **Kliknite** na odkaz **Restore snapshot**.
 
-![](../.gitbook/assets/ts7%20%281%29.png)
+![](../.gitbook/assets/ts7.png)
 
 14. **Vyberte súbor** zálohy.
 
@@ -70,15 +70,15 @@ Tento návod vás prevedie procesom, ako **nahrať TeamSpeak3 zálohu** pomocou 
   
 16. Potvrďte pomocou **OK.**
 
-![](../.gitbook/assets/ts10%20%281%29.png)
+![](../.gitbook/assets/ts10.png)
 
 **17. Kliknite** na záložku **Servers**.
 
-![](../.gitbook/assets/ts11%20%282%29.png)
+![](../.gitbook/assets/ts11.png)
 
 18. Znovu o**značte** server a **kliknite Select**.
 
-![](../.gitbook/assets/ts12%20%282%29.png)
+![](../.gitbook/assets/ts12.png)
 
 19. **Kliknite** na odkaz **Slots**.
 
