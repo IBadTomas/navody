@@ -26,3 +26,12 @@
 * [Discord](https://discord.gg/3BxxXuGuMC)
 * [Status Page](https://stats.batcore.eu/)
 
+## Všeobecné
+
+* [Podmienky Spolupráce](vseobecne/podminky-spoluprace/README.md)
+  * [Minecraft Štúdio - Tvorba minecraft filmov a sketchov.](vseobecne/podminky-spoluprace/minecraft-studio-tvorba-minecraft-filmov-a-sketchov..md)
+
+---
+
+* [Recenzie - TrustPilot](https://www.trustpilot.com/review/batcore.eu)
+

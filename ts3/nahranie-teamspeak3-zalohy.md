@@ -7,12 +7,12 @@ Tento návod vás prevedie procesom, ako **nahrať TeamSpeak3 zálohu** pomocou 
 ## Budete potrebovať
 
 * **TeamSpeak3** server
-* Stiahnutý a nainštalovaný nástroj [**YaTQA**](https://yat.qa/herunterladen/) **\(**[**https://yat.qa/herunterladen/**](https://yat.qa/herunterladen/)**\)**
+* Stiahnutý a nainštalovaný nástroj [**YaTQA**](https://yat.qa/herunterladen/) **\(**[**yat.qa/herunterladen/**](https://yat.qa/herunterladen/)**\)**
 * Prístupové údaje do **Query** \(**serveradmin**\)
 
 ## Postup
 
-1. Prihláste sa do hernej administrácie na [https://panel.batcore.eu](https://panel.batcore.eu/)  
+1. Prihláste sa do hernej administrácie na [panel.batcore.eu](https://panel.batcore.eu/)  
 2. Zvoľte server, na ktorý chcete zálohu nahrať.
 
 ![](../.gitbook/assets/image.png)
