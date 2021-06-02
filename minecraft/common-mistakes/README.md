@@ -1,4 +1,4 @@
-# Časté chyby
+# Chyby
 
 ### Mezi časté chyby se řadí:
 

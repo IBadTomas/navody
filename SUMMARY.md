@@ -5,9 +5,9 @@
 ## Minecraft
 
 * [Vlastní IP - Minecraft serveru](minecraft/custom-ip.md)
-* [Optimalizační pluginy](minecraft/recommanded-plugins/README.md)
+* [Pluginy](minecraft/recommanded-plugins/README.md)
   * [Optimalizační pluginy](minecraft/recommanded-plugins/optimized-plugins.md)
-* [Časté chyby](minecraft/common-mistakes/README.md)
+* [Chyby](minecraft/common-mistakes/README.md)
   * [Failed to Verify Username](minecraft/common-mistakes/failed-verify.md)
 
 ## TS3

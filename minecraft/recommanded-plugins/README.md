@@ -1,4 +1,4 @@
-# Optimalizační pluginy
+# Pluginy
 
 {% page-ref page="optimized-plugins.md" %}
 
