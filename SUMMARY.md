@@ -23,7 +23,7 @@
 ## Všeobecné
 
 * [Podmienky Spolupráce](vseobecne/podminky-spoluprace/README.md)
-  * [Minecraft Štúdio - Tvorba minecraft filmov a sketchov.](vseobecne/podminky-spoluprace/minecraft-studio-tvorba-minecraft-filmov-a-sketchov..md)
+  * [Minecraft Štúdio - Tvorba minecraft filmov a sketchov.](vseobecne/podminky-spoluprace/minecraft-studio.md)
 
 ---
 
