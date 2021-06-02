@@ -13,6 +13,7 @@
 ## TS3
 
 * [Vlastní IP - TS3](ts3/custom-ip.md)
+* [Nahranie TeamSpeak3 zálohy](ts3/nahranie-teamspeak3-zalohy.md)
 
 ## Wiki
 

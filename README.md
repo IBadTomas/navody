@@ -14,4 +14,5 @@ Návrhy na témy:
 * [ ] Povolenie pripojenia warez hráčov.
 * [ ] Ako pridať návod pomocou GitHub
 * [ ] Ako sa pripojiť na SSH.
+* [ ] Ako nahrať ts3 zálohu.
 
